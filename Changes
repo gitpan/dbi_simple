@@ -1,0 +1,11 @@
+Revision history for Perl extension DBI::Simple.
+
+0.01  Mon May 14 10:05:20 2007
+	- original version; created by h2xs 1.22 with options
+		-afn DBI::Simple
+1.00 
+    - copy from SimpleSQL changed name to DBI::Simple
+    - added documentation
+1.03 
+    - changed calls to allow passing vars with ? 
+ 
